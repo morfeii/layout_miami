@@ -186,7 +186,9 @@ strong {
         -ms-flex-direction: column;
             flex-direction: column; }
     .info__heading {
-      margin-bottom: 16px; } }
+      margin-bottom: 16px; }
+    .info__text {
+      max-width: 100%; } }
 
 @media screen and (max-width: 415px) {
   .info__heading {
